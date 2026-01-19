@@ -2,8 +2,6 @@
 
 This project is a static landing page built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
-It was initially prototyped using Base44 and later migrated to a fully independent codebase for customization, deployment, and maintenance.
-
 ---
 
 ## 🚀 Tech Stack
