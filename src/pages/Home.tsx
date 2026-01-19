@@ -1,4 +1,3 @@
-import React from "react";
 import HeroSection from "@/components/landing/HeroSection";
 import StorySection from "@/components/landing/StorySection";
 import DayNightSection from "@/components/landing/DayNightSection";
